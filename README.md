@@ -1,9 +1,9 @@
 #开源创意#
 
->“有创意的人很多。”
->“你的创意，别人一样可以有。”
->“你的方案有技术壁垒吗？我只要钱砸下去，就能造一个了。”
->“现在是资本说话的时代，想法不重要。”
+>“有创意的人很多。”<br/>
+>“你的创意，别人一样可以有。”<br/>
+>“你的方案有技术壁垒吗？我只要钱砸下去，就能造一个了。”<br/>
+>“现在是资本说话的时代，想法不重要。”<br/>
 
 5年前，我与朋友的共同创业的时候，面对投资商，经常听到上面的话。直到现在，依然有很多成功人士这样教训着那些奋斗在实现梦想的路上的斗士们。
 
@@ -22,7 +22,7 @@
 	如果你要实施，并邀请我参加，我也很乐意。
 
 #找到我#
-<strong>E-mail：</strong>it#itdiffer.com(将#替换为@)
-<strong>QQ：</strong>26066913
-<strong>WEB：</strong>[www.itdiffer.com](http://www.itdiffer.com)
-<strong>微博：</strong>[老齐Py](http://weibo.com/qiwsir)
+<strong>E-mail：</strong>it#itdiffer.com(将#替换为@)<br/>
+<strong>QQ：</strong>26066913<br/>
+<strong>WEB：</strong>[www.itdiffer.com](http://www.itdiffer.com)<br/>
+<strong>微博：</strong>[老齐Py](http://weibo.com/qiwsir)<br/>
