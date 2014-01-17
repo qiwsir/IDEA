@@ -22,7 +22,7 @@
 	如果你要实施，并邀请我参加，我也很乐意。
 #目录#
 
-[IT类]()
+[IT类](https://github.com/qiwsir/IDEA/tree/master/IT)
 
 [非IT类](https://github.com/qiwsir/IDEA/tree/master/noIT)
 
